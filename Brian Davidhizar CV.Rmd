@@ -1,0 +1,303 @@
+---
+title: "Brian Davidhizar's resume"
+author: Brian Davidhizar
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: true
+# uncomment this line to produce HTML and PDF in RStudio:
+#knit: pagedown::chrome_print
+---
+
+Aside
+================================================================================
+
+
+![Brian Davidhizar](LinkedIn Headshot.png){width=80%}
+
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> brian.davidhizar@gmail.com
+- <i class="fa fa-phone"></i> +1 443-422-7183
+- ![](LinkedIn.png) [linkedin.com/briandavidhizar](https://www.linkedin.com/in/briandavidhizar/)
+- ![](DataCamp.png) [datacamp.com/briandavidhizar](https://www.datacamp.com/profile/briandavidhizar)
+- <i class="fa fa-github"></i> [github.com/Bravo-Lima-Delta](https://github.com/Bravo-Lima-Delta)
+- For more information, please contact me via email.
+- **U.S. Citizen**
+
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+
+- Experienced financial data analyst in the asset management industry
+
+- Learner, Teacher, Collaborator
+
+- Credentialed in Leadership, Data Science, Tableau, Investment Performance Analysis, Accounting & Financial Management
+
+- Competent primarily with R, Power BI, Tableau, and secondarily with Python, SQL
+
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).
+
+Last updated on `r Sys.Date()`.
+
+
+
+Main
+================================================================================
+
+Brian L. Davidhizar {#title}
+--------------------------------------------------------------------------------
+
+### Currently searching for a remote position
+
+Please note that this is a *real* resume, and I'm searching for a role on a data analytics team with 
+a great culture: somewhere I can belong, learn, grow, and influence business outcomes.  This is a short version of my resume.  I can provide a longer version in separate .pdf format that provides additional commentary.
+
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### Carnegie Mellon University - Tepper School of Businesss
+
+Graduate Coursework in Business Analytics
+
+Pittsburgh, PA
+
+2021 - 2020 
+
+### Norwich University
+
+M.S. in Leadership
+
+Northfield, VT
+
+2018
+
+### University of Washington
+
+Graduate Certificate in Computational Finance
+
+Seattle, WA
+
+2013
+
+### Rochester Institute of Technology
+
+Graduate Coursework in Applied Statistics
+
+Rochester, NY
+
+2012 - 2011
+
+### University of Maryland Global Campus
+
+M.S. in Accounting & Financial Management
+
+Adelphi, MD
+
+2009
+
+### Defense Language Institute
+
+A.A. in Spanish
+
+Monterey, CA
+
+2005
+
+### Messiah University
+
+B.S. in International Business
+
+Mechanicsburg, PA
+
+2002
+
+
+Data Analytics & Industry Skills {data-icon=laptop}
+--------------------------------------------------------------------------------
+
+### Data Science
+
+Datacamp
+
+Online Platform
+
+Present - 2019
+
+::: concise
+- *[Certified Data Scientist Professional](https://www.datacamp.com/certificate/DS0015434165441)*
+- Data Scientist with R
+- Data Analyst with R
+- Data Visualization with R
+- Data Manipulation with R
+- Data Analyst with Python
+- Data Analyst with SQL Server
+:::
+
+### Analytics & Programming
+
+Various Platforms and Tools
+
+Various Learning Modes
+
+Present - 2013
+
+::: concise
+- *[Certified Tableau Desktop Specialist](https://www.credly.com/badges/6c91ed7f-895b-4ebb-b47a-df549d52d02b/public_url)*
+- Microsoft Power BI
+- DAX
+- M
+- R
+- RStudio
+- R Markdown
+- Python
+- Jupyter notebooks
+:::
+
+### Industry-Specific Platforms
+
+Various Platforms and Tools
+
+T. Rowe Price
+
+Present - 2010
+
+::: concise
+- Morningstar Direct
+- eVestment
+- Strategic Insight/SIMFUND
+- P&I Research 
+- Zephyr StyleAdvisor
+- Factset
+- Lipper
+- Brightscope
+- Mercer Insight
+:::
+
+### Finance, Investments, Statistics, & Leadership Coursework
+
+Various Academic Institutions
+
+Tepper, Norwich, UW, RIT, UMGC
+
+2021 - 2012
+
+::: concise
+- Investment Science
+- Financial Data Modeling and Analysis in R
+- Portfolio Optimization & Asset Management; Investment Valuation
+- Behavioral Finance
+- Capital Markets, Institutions, & Long-Term Finance
+- Financial Management of Organizations
+- Strategic Financial Management
+- Multinational Financial Management
+- Financial Accounting
+- Cost Accounting
+- Auditing Process
+- Accounting Information Systems
+- Introduction to Probability & Statistics
+- Statistical Foundations of Business Analytics
+- Math for Statistics
+- Principles of Applied Stats
+- Statistical Computing
+- Leadership Fundamentals
+- Emotional Intelligence
+- Leading Change
+- Change Management Consulting
+- Implementing Change 
+
+:::
+
+Professional Experience {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+### Sr. Manager, Data Analytics (current) | Product Analyst | Sr. Market Research Analyst | Quantitative Investment Performance Analyst | Sr. Mutual Fund Accountig Associate
+
+T. Rowe Price
+
+Maryland, USA
+
+Present - 2010
+
+::: concise
+- Data Visualization & Storytelling
+- Dashboard Development
+- Strategic Analysis
+- Investment Product Development
+- Investment Vehicle Analysis
+- Industry & Competitor Analysis
+- *[Certificate in Investment Performance Measurement (CIPM)](https://www.cfainstitute.org/-/media/documents/factsheet/cipm-factsheet.ashx)*
+- Analysis of Assets Under Management (AUM) and Net Flows
+- Institutional Sales & Client Service Support
+- Monte-Carlo Simulation
+- Forecasting
+- Portfolio Accounting
+:::
+
+### Hedge Fund Audit Staff
+
+Arthur Bell, CPAs
+
+Hunt Valley, MD
+
+2010 - 2008
+
+- Auditing
+- Developed alternative investment industry expertise while auditing financial statements of high-profile
+hedge funds, commodity pools, and fund-of-funds.
+
+### Assurance Associate
+
+PricewaterhouseCoopers, LLP
+
+Tysons Corner, VA
+
+2008
+
+- Big 4 Experience
+- Provided consulting services to a U.S. government organization undergoing audit preparation.
+
+
+Active Duty Military Service {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+### Signals Intelligence: Spanish CryptoLinguist (MOS: 2674)
+
+United States Marine Corps
+
+Fort Meade, MD
+
+2008 - 2003
+
+- Served in the United States Armed Forces on active duty as a U.S. Marine for five years
+filling a Signals Intelligence billet. Successfully completed intensive military training in basic combat operations,
+foreign language, intelligence production, and information technology application.
+
+::: concise
+- Ranks: PFC - Sergeant (E2-E5)
+- Discharge: Honorable
+- Joint Service Achievement Medal
+- Navy and Marine Corps Achievement Medal
+- Army Achievement Medal
+- Joint Meritorious Unit Award
+- Marine Corps Good Conduct Medal
+- National Defense Service Medal
+- Global War on Terror Service Medal
+:::
+
+Additional Information {data-icon=file}
+--------------------------------------------------------------------------------
+
+### Interests
+
+European Football (Soccer), Leadership Literature, Data Visualization, Military History, Geography,
+Travel, Hiking, Philosophy, Theology
