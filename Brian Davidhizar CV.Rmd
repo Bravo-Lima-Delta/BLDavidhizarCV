@@ -182,40 +182,6 @@ Present - 2010
 - Mercer Insight
 :::
 
-### Finance, Investments, Statistics, & Leadership Coursework
-
-Various Academic Institutions
-
-Tepper, Norwich, UW, RIT, UMGC
-
-2021 - 2012
-
-::: concise
-- Investment Science
-- Financial Data Modeling and Analysis in R
-- Portfolio Optimization & Asset Management; Investment Valuation
-- Behavioral Finance
-- Capital Markets, Institutions, & Long-Term Finance
-- Financial Management of Organizations
-- Strategic Financial Management
-- Multinational Financial Management
-- Financial Accounting
-- Cost Accounting
-- Auditing Process
-- Accounting Information Systems
-- Introduction to Probability & Statistics
-- Statistical Foundations of Business Analytics
-- Math for Statistics
-- Principles of Applied Stats
-- Statistical Computing
-- Leadership Fundamentals
-- Emotional Intelligence
-- Leading Change
-- Change Management Consulting
-- Implementing Change 
-
-:::
-
 Professional Experience {data-icon=suitcase}
 --------------------------------------------------------------------------------
 
@@ -223,7 +189,7 @@ Professional Experience {data-icon=suitcase}
 
 T. Rowe Price
 
-Maryland, USA
+Baltimore, MD
 
 Present - 2010
 
@@ -250,9 +216,7 @@ Hunt Valley, MD
 
 2010 - 2008
 
-- Auditing
-- Developed alternative investment industry expertise while auditing financial statements of high-profile
-hedge funds, commodity pools, and fund-of-funds.
+- Auditing of hedge funds, commodity pools, and fund-of-funds.
 
 ### Assurance Associate
 
@@ -263,7 +227,6 @@ Tysons Corner, VA
 2008
 
 - Big 4 Experience
-- Provided consulting services to a U.S. government organization undergoing audit preparation.
 
 
 Active Duty Military Service {data-icon=suitcase}
@@ -277,8 +240,7 @@ Fort Meade, MD
 
 2008 - 2003
 
-- Served in the United States Armed Forces on active duty as a U.S. Marine for five years
-filling a Signals Intelligence billet. Successfully completed intensive military training in basic combat operations,
+- Successfully completed intensive military training in basic combat operations,
 foreign language, intelligence production, and information technology application.
 
 ::: concise
@@ -298,5 +260,17 @@ Additional Information {data-icon=file}
 
 ### Interests
 
-European Football (Soccer), Leadership Literature, Data Visualization, Military History, Geography,
-Travel, Hiking, Philosophy, Theology
+Short list:
+
+Everywhere
+
+::: concise
+- European Football (Soccer)
+- Leadership Literature
+- Data Visualization
+- Military History
+- Geography
+- Travel
+- Hiking
+- Theology
+:::
