@@ -162,9 +162,9 @@ Present - 2013
 - Jupyter notebooks
 :::
 
-### Industry-Specific Platforms
+### Investments Industry
 
-Various Platforms and Tools
+Data Platforms
 
 T. Rowe Price
 
@@ -240,7 +240,7 @@ Fort Meade, MD
 
 2008 - 2003
 
-- Successfully completed intensive military training in basic combat operations,
+- Intensive military training in basic combat operations,
 foreign language, intelligence production, and information technology application.
 
 ::: concise
