@@ -64,14 +64,6 @@ Please note that this is a *real* resume, and I'm searching for a role on a data
 Education {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
 
-### Carnegie Mellon University - Tepper School of Businesss
-
-Graduate Coursework in Business Analytics
-
-Pittsburgh, PA
-
-2021 - 2020 
-
 ### Norwich University
 
 M.S. in Leadership
@@ -87,14 +79,6 @@ Graduate Certificate in Computational Finance
 Seattle, WA
 
 2013
-
-### Rochester Institute of Technology
-
-Graduate Coursework in Applied Statistics
-
-Rochester, NY
-
-2012 - 2011
 
 ### University of Maryland Global Campus
 
@@ -253,10 +237,27 @@ foreign language, intelligence production, and information technology applicatio
 - Marine Corps Good Conduct Medal
 - National Defense Service Medal
 - Global War on Terror Service Medal
+- **Inactive TS/SCI Security Clearance**
 :::
 
-Additional Information {data-icon=file}
+Other Quant Coursework & Interests {data-icon=file}
 --------------------------------------------------------------------------------
+
+### Carnegie Mellon University - Tepper School of Businesss
+
+Graduate Coursework in Business Analytics
+
+Pittsburgh, PA
+
+2021 - 2020 
+
+### Rochester Institute of Technology
+
+Graduate Coursework in Applied Statistics
+
+Rochester, NY
+
+2012 - 2011
 
 ### Interests
 
