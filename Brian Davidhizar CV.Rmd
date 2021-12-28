@@ -162,7 +162,6 @@ Present - 2010
 - Zephyr StyleAdvisor
 - Factset
 - Lipper
-- Brightscope
 - Mercer Insight
 :::
 
