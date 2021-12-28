@@ -183,7 +183,7 @@ Present - 2010
 - Investment Product Development
 - Investment Vehicle Analysis
 - Industry & Competitor Analysis
-- *[Certificate in Investment Performance Measurement (CIPM&reg;)](https://www.cfainstitute.org/-/media/documents/factsheet/cipm-factsheet.ashx)*
+- *[Certificate in Investment Performance Measurement (CIPM)](https://www.cfainstitute.org/-/media/documents/factsheet/cipm-factsheet.ashx)*
 - Analysis of Assets Under Management (AUM) and Net Flows
 - Institutional Sales & Client Service Support
 - Monte-Carlo Simulation
