@@ -60,7 +60,7 @@ Brian L. Davidhizar  {#title}
 
 The ideal role would involve data analytics or business intelligence in an organization where I can belong, learn, grow, mentor, and influence.
 
-**Please refer to an [Appendix of this CV](https://htmlpreview.github.io/?https://github.com/Bravo-Lima-Delta/BLDavidhizarCV/blob/main/Brian-Davidhizar-CV-Appendix.html) for career narrative and details of major projects and accomplishments.**
+**Please refer to an [Extended CV](https://htmlpreview.github.io/?https://github.com/Bravo-Lima-Delta/BLDavidhizarCV/blob/main/Brian-Davidhizar-CV-Appendix.html) for career narrative and details of major projects and accomplishments.**
 
 Education {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
