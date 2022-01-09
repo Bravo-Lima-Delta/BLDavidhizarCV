@@ -63,7 +63,9 @@ This document is supplemental to **[Brian Davidhizar's CV](https://htmlpreview.g
 
 Its purpose is to provide transparency into career move rationale and to address important projects and achievements more directly.
 
-It was designed read chronologically, so that the reader can skip over sections they may deem irrelevant.  
+It was designed read chronologically, so that the reader can skip over sections they may deem irrelevant.
+
+**Career Narrative begins on next page.**
 
 Career Narrative {data-icon=suitcase}
 --------------------------------------------------------------------------------
@@ -78,19 +80,27 @@ Career Narrative {data-icon=suitcase}
 
 **Pursuit of the role:**
 
-- type
+- I spent a considerable amount of time reflecting on what I wanted to do after college while I was a student at Messiah University.  The military option was one that I started considering my sophomore year.  I started taking the idea more seriously my junior year.  The Marine Corps was the only branch of service I ever considered. I suppose I wanted to be part of a highly esteemed organization that would live up to its reputation of instilling discipline, building character, developing leadership skills, and taking their work seriously.  The September 11th attacks took place at the beginning of my senior year, and I elected to enlist, rather then put in an officer package, so I could go into intelligence and study languages. 
 
 **What I helped accomplish and why it mattered:**
 
-- type
+- I assisted U.S. efforts in the fight against narco-trafficking.  Anyone who understands the destructive impact of narcotics can understand why it was easy for me to derive a lot of meaning from the mission.
 
 **Learnings:**
 
-- type
+- What I learned in the Marines are lessons that will never decay.  They are too numerous to be captured here, but I provide a few important ones listed in no order of precedence:
+- How to endure and overcome challenges
+- The importance of guarding your reputation
+- There will always be another evaluation, let each of them be a learning opportunity.
+- Perception is reality.
+- Put others first.  Humility is not weakness.
+- There is such a thing as terrible leadership.
+- Good leadership takes intentional effort and training.
+- Not every fight is worth fighting, but when you do, know how to win.
 
 **Aspirations:**
 
-- type
+- I loved being a Marine.  I thought I might stay in the Corps for a long time because I was good at it and I liked the way the uniform made me feel.  I fell in love, though, and judged that the Marines was not an environment conducive for a healthy family life.  I reflected on the coursework I enjoyed during my undergraduate studies and determined that I would pursue a career in financial analytics of some sort and with a specific eye toward the investments industry.  I thought that an investments career would help provide for the family life we wanted.  Really, I just wanted to make ends meet after getting out of the military.   
 
 ### [PricewaterhouseCoopers LLP](https://en.wikipedia.org/wiki/PricewaterhouseCoopers)
 
@@ -102,19 +112,21 @@ Tysons Corner, VA
 
 **Pursuit of the role:**
 
-- type
+- I needed a job that would offer an income similar to the income I was earning in the military.  PwC took me on primarily, I believe, because I had an active Top Secret security clearance and they had government contracts on which they thought I would be a good fit.  From my perspective, however, they put forth very little effort in terms of training provision and I quickly judged that it was not in my best interest to be shell-holed into government contracting when my intent was to navigate toward an investments career.
 
 **What I helped accomplish and why it mattered:**
 
-- type
+- I assisted with audit work at Howard University in D.C. and then helped a government agency with audit preparations.  I felt that very little of what I did made any sort of significant contribution to the overarching missions of these organizations.  However, my time at PwC came with other important lessons (see learnings).
 
 **Learnings:**
 
-- type
+- I started to get a sense of how far behind I was of peers that had already been in the workforce for 5 years while I had been on military duty.
+- I realized I lacked a deep understanding of basic everyday business tools (e.g. MS Excel, MS PowerPoint, etc.) and adopted strategies for building expertise in them.
+- I began to understand that completing a graduate degree was paramount if I wanted to portray a seriousness about professional progression, so I studied hard while pursuing an M.S. in Accounting and Financial Management at the University of Maryland Global Campus (UMGC).
 
 **Aspirations:**
 
-- type
+- One of my classmates at UMGC was an associate at a Arthur Bell CPAs, a public accounting firm north of Baltimore that specialized in providing assurance and tax services to clientele in the alternative investments industry (e.g. hedge funds, commodity pools, funds of hedge funds, etc.).  I thought joining a firm like that would be the perfect way to gain professional experience while simultaneously aligning my career with to the industry that most peaked my interest. 
 
 ### [Arthur Bell, CPAs](https://www.cohencpa.com/arthur-bell)
 
@@ -126,19 +138,19 @@ Hunt Valley, MD
 
 **Pursuit of the role:**
 
-- type
+- Commentary under development.
 
 **What I helped accomplish and why it mattered:**
 
-- type
+- Commentary under development.
 
 **Learnings:**
 
-- type
+- Commentary under development.
 
 **Aspirations:**
 
-- type
+- Commentary under development.
 
 ### [T. Rowe Price](https://www.troweprice.com/corporate/us/en/what-we-do.html)
 
@@ -150,19 +162,19 @@ Owings Mills, MD
 
 **Pursuit of the role:**
 
-- type
+- Commentary under development.
 
 **What I helped accomplish and why it mattered:**
 
-- type
+- Commentary under development.
 
 **Learnings:**
 
-- type
+- Commentary under development.
 
 **Aspirations:**
 
-- type
+- Commentary under development.
 
 ### T. Rowe Price
 
@@ -174,19 +186,19 @@ Owings Mills, MD
 
 **Pursuit of the role:**
 
-- type
+- Commentary under development.
 
 **What I helped accomplish and why it mattered:**
 
-- type
+- Commentary under development.
 
 **Learnings:**
 
-- type
+- Commentary under development.
 
 **Aspirations:**
 
-- type
+- Commentary under development.
 
 ### T. Rowe Price
 
@@ -198,19 +210,19 @@ Baltimore, MD
 
 **Pursuit of the role:**
 
-- type
+- Commentary under development.
 
 **What I helped accomplish and why it mattered:**
 
-- type
+- Commentary under development.
 
 **Learnings:**
 
-- type
+- Commentary under development.
 
 **Aspirations:**
 
-- type
+- Commentary under development.
 
 ### T. Rowe Price
 
@@ -222,19 +234,19 @@ Baltimore, MD
 
 **Pursuit of the role:**
 
-- type
+- Commentary under development.
 
 **What I helped accomplish and why it mattered:**
 
-- type
+- Commentary under development.
 
 **Learnings:**
 
-- type
+- Commentary under development.
 
 **Aspirations:**
 
-- type
+- Commentary under development.
 
 ### T. Rowe Price
 
@@ -246,16 +258,16 @@ Owings Mills, MD
 
 **Pursuit of the role:**
 
-- type
+- Commentary under development.
 
 **What I helped accomplish and why it mattered:**
 
-- type
+- Commentary under development.
 
 **Learnings:**
 
-- type
+- Commentary under development.
 
 **Aspirations:**
 
-- type
+- Commentary under development.
