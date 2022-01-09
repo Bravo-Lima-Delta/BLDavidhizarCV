@@ -56,10 +56,11 @@ Main
 Brian L. Davidhizar  {#title}
 --------------------------------------------------------------------------------
 
-### Currently searching for a remote position
+### Currently searching for a remote position.  
 
-I am searching for a role on a data analytics or business intelligence team with a great culture: somewhere I can belong, learn, grow, and influence business outcomes.
+The ideal role would involve data analytics or business intelligence in an organization where I can belong, learn, grow, mentor, and influence.
 
+**Please refer to an [Appendix of this CV](https://htmlpreview.github.io/?https://github.com/Bravo-Lima-Delta/BLDavidhizarCV/blob/main/Brian-Davidhizar-CV-Appendix.html) for career narrative and details of major projects and accomplishments.**
 
 Education {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
@@ -138,12 +139,9 @@ Present - 2013
 - *[Certified Tableau Desktop Specialist](https://www.credly.com/badges/6c91ed7f-895b-4ebb-b47a-df549d52d02b/public_url)*
 - Microsoft Power BI
 - DAX
-- M
 - R
-- RStudio
-- R Markdown
 - Python
-- Jupyter notebooks
+
 :::
 
 ### Investments Industry

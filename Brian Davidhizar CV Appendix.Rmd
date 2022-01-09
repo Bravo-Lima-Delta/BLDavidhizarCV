@@ -1,0 +1,261 @@
+---
+title: "Appendix to Brian Davidhizar's resume"
+author: Brian Davidhizar
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: true
+# uncomment this line to produce HTML and PDF in RStudio:
+#knit: pagedown::chrome_print
+---
+
+Aside
+================================================================================
+
+![Brian Davidhizar](LinkedIn Headshot.png){width=80%}
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> brian.davidhizar@gmail.com
+- <i class="fa fa-phone"></i> +1 443-422-7183
+- ![](LinkedIn.png) [linkedin.com/briandavidhizar](https://www.linkedin.com/in/briandavidhizar/)
+- ![](DataCamp.png) [datacamp.com/briandavidhizar](https://www.datacamp.com/profile/briandavidhizar)
+- <i class="fa fa-github"></i> [github.com/Bravo-Lima-Delta](https://github.com/Bravo-Lima-Delta)
+- For more information, please contact me via email.
+- **U.S. Citizen**
+
+
+Career Summary {#skills}
+--------------------------------------------------------------------------------
+
+- U.S. Marine Corps (2003-2008)
+- PricewaterhouseCoopers (2008)
+- Arthur Bell CPAs (2008-2010)
+- T. Rowe Price (2010-Present)
+
+Learning Growth {#skills}
+--------------------------------------------------------------------------------
+
+- Messiah University (1998-2002)
+- U. MD Global Campus (2006-2009)
+- RIT (2011-2012)
+- Univ. of Washington (2012-2013)
+- CFA Inst. CIPM Prog. (2013-2014)
+- Norwich University (2016-2018)
+- CMU Tepper (2020-2021)
+- Self-directed Data Sci. (2019-Now) 
+
+<br>
+
+*Last updated on `r Sys.Date()`.*
+
+
+
+Main
+================================================================================
+
+Extended CV  {#title}
+--------------------------------------------------------------------------------
+
+This document is supplemental to **[Brian Davidhizar's CV](https://htmlpreview.github.io/?https://github.com/Bravo-Lima-Delta/BLDavidhizarCV/blob/main/Brian-Davidhizar-CV.html)** as an appendix.  
+
+Its purpose is to provide transparency into career move rationale and to address important projects and achievements more directly.
+
+It was designed read chronologically, so that the reader can skip over sections they may deem irrelevant.  
+
+Career Narrative {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+### [United States Marine Corps](https://en.wikipedia.org/wiki/United_States_Marine_Corps)
+
+[Signals Intelligence](https://en.wikipedia.org/wiki/Signals_intelligence): [Spanish Cryptologic Linguist](https://www.thebalancecareers.com/career-profile-marine-cryptologic-linguist-2356442)
+
+[Fort Meade, MD](https://en.wikipedia.org/wiki/National_Security_Agency)
+
+2003 - 2008
+
+**Pursuit of the role:**
+
+- type
+
+**What I helped accomplish and why it mattered:**
+
+- type
+
+**Learnings:**
+
+- type
+
+**Aspirations:**
+
+- type
+
+### [PricewaterhouseCoopers LLP](https://en.wikipedia.org/wiki/PricewaterhouseCoopers)
+
+Assurance Associate
+
+Tysons Corner, VA
+
+2008 - 2008
+
+**Pursuit of the role:**
+
+- type
+
+**What I helped accomplish and why it mattered:**
+
+- type
+
+**Learnings:**
+
+- type
+
+**Aspirations:**
+
+- type
+
+### [Arthur Bell, CPAs](https://www.cohencpa.com/arthur-bell)
+
+Hedge Fund Audit Staff
+
+Hunt Valley, MD
+
+2008 - 2010
+
+**Pursuit of the role:**
+
+- type
+
+**What I helped accomplish and why it mattered:**
+
+- type
+
+**Learnings:**
+
+- type
+
+**Aspirations:**
+
+- type
+
+### [T. Rowe Price](https://www.troweprice.com/corporate/us/en/what-we-do.html)
+
+Sr. Mutual Fund Accounting Associate
+
+Owings Mills, MD
+
+2010 - 2011
+
+**Pursuit of the role:**
+
+- type
+
+**What I helped accomplish and why it mattered:**
+
+- type
+
+**Learnings:**
+
+- type
+
+**Aspirations:**
+
+- type
+
+### T. Rowe Price
+
+Quantitative Investment Performance Analyst
+
+Owings Mills, MD
+
+2011 - 2015
+
+**Pursuit of the role:**
+
+- type
+
+**What I helped accomplish and why it mattered:**
+
+- type
+
+**Learnings:**
+
+- type
+
+**Aspirations:**
+
+- type
+
+### T. Rowe Price
+
+Sr. Market Research Analyst
+
+Baltimore, MD
+
+2015 - 2016
+
+**Pursuit of the role:**
+
+- type
+
+**What I helped accomplish and why it mattered:**
+
+- type
+
+**Learnings:**
+
+- type
+
+**Aspirations:**
+
+- type
+
+### T. Rowe Price
+
+Product Analyst
+
+Baltimore, MD
+
+2016 - 2018
+
+**Pursuit of the role:**
+
+- type
+
+**What I helped accomplish and why it mattered:**
+
+- type
+
+**Learnings:**
+
+- type
+
+**Aspirations:**
+
+- type
+
+### T. Rowe Price
+
+Sr. Manager, Data Analytics
+
+Owings Mills, MD
+
+2010 - Present
+
+**Pursuit of the role:**
+
+- type
+
+**What I helped accomplish and why it mattered:**
+
+- type
+
+**Learnings:**
+
+- type
+
+**Aspirations:**
+
+- type
