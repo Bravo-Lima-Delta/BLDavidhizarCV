@@ -15,7 +15,7 @@ Aside
 
 ![Brian Davidhizar](LinkedIn Headshot.png){width=80%}
 
-Contact Info {#contact}
+Brian Davidhizar {#contact}
 --------------------------------------------------------------------------------
 
 - <i class="fa fa-envelope"></i> brian.davidhizar@gmail.com
@@ -58,14 +58,7 @@ Main
 
 Extended CV  {#title}
 --------------------------------------------------------------------------------
-
-This document is supplemental to **[Brian Davidhizar's CV](https://htmlpreview.github.io/?https://github.com/Bravo-Lima-Delta/BLDavidhizarCV/blob/main/Brian-Davidhizar-CV.html)** as an appendix.  
-
-Its purpose is to provide transparency into career move rationale and to address important projects and achievements more directly.
-
-It was designed read chronologically, so that the reader can skip over sections they may deem irrelevant.
-
-**Career Narrative begins on next page.**
+This document is supplemental to **[Brian Davidhizar's CV](https://htmlpreview.github.io/?https://github.com/Bravo-Lima-Delta/BLDavidhizarCV/blob/main/Brian-Davidhizar-CV.html)** as an appendix.
 
 Career Narrative {data-icon=suitcase}
 --------------------------------------------------------------------------------
@@ -85,6 +78,7 @@ Career Narrative {data-icon=suitcase}
 **What I helped accomplish and why it mattered:**
 
 - I assisted U.S. efforts in the fight against narco-trafficking.  Anyone who understands the destructive impact of narcotics can understand why it was easy for me to derive a lot of meaning from the mission.
+- Completed an A.A. in Spanish at the Defense Language Institute in August, 2005.
 
 **Learnings:**
 
@@ -138,19 +132,23 @@ Hunt Valley, MD
 
 **Pursuit of the role:**
 
-- Commentary under development.
+- I joined Arthur Bell CPAs as Audit Staff in June, 2008 after a short stint at PricewaterhouseCoopers.  I had been studying Accounting and Financial Management at UMGC and I felt this role would give me more hands-on experience in the accounting field.  I was also excited about moving closer to the investments industry, even if did not yet involve working for an investment manager directly.
 
 **What I helped accomplish and why it mattered:**
 
-- Commentary under development.
+- I helped complete audits of alternative investments partnerships (e.g. hedge-funds, commodity pools, funds-of-hedge-funds, etc.).  I audited various parts of their financial statements to include both Balance Sheet and Income Statement items under the supervision of more tenured audit associates.  As an independent auditor, our opinion as to whether any material misstatements existed helped give investors in the partnerships confidence that business was being conducted properly. 
+- Completed M.S. in Accounting and Financial Management from UMGC in May, 2009.
 
 **Learnings:**
 
-- Commentary under development.
+- Developed knowledge of the alternative investments industry
+- Better understanding of and deeper exposure to financial statements
+- Introduced to different types of financial securities traded by investment managers for different purposes such as equities, bonds, futures, forwards, options, swaps, etc.
+- I learned that I enjoy structure around process.  In other words, I learned that I like clear goals and systematic ways to go about achieving them.  Auditing was often a direct, step-by-step process, so it was good to have this type of work at the introductory stage of my professional career.
 
 **Aspirations:**
 
-- Commentary under development.
+- Public accounting firms typically operate with a busy season, which entails extended working hours from January through April -- usually 12-15 hours a day with some work on Saturdays as well.  This arrangement was not sustainable from my point of view; I did not want to be working busy seasons that would preclude any chance of being present as a father.  Additionally, I began to find the historic nature of audit work tedious; I wanted to be in a role that was more participatory:  where I could help solve business problems.  I thought that pursuing roles at Baltimore-based investment firms like T. Rowe Price or Legg Mason (recently acquired by Franklin Templeton) would provide a transition into direct employment by an asset manager.
 
 ### [T. Rowe Price](https://www.troweprice.com/corporate/us/en/what-we-do.html)
 
@@ -162,19 +160,22 @@ Owings Mills, MD
 
 **Pursuit of the role:**
 
-- Commentary under development.
+- I had set a goal of working directly for an asset manager, so I searched for roles at T. Rowe Price that would be a good fit considering the skills I had acquired at Arthur Bell CPAs.  I successfully managed to land a role in T. Rowe's Portfolio Accounting department.  I hoped that it would be a role that could provide future opportunities and multiple paths into other investment-related analytic roles. 
 
 **What I helped accomplish and why it mattered:**
 
-- Commentary under development.
+- I had two primary responsibilities as a portfolio accountant.  The first was to reconcile transactions (e.g. buy/sell trades, corporate actions, receipt of interest, etc.) in our systems to custodian records for fixed income portfolios.  The second was to manage the distribution of corporate shares to institutional clients from their ownership interests in private equity and venture capital partnerships.  T. Rowe Price investment staff would then manage the liquidation of the shares on the client's behalf or hold them for eventual sale at a future date.  I  worked with T. Rowe Price Technology associates to build a more robust, controlled, and more automated system for booking these shares to reduce the probability of error.  I also helped develop and improve MS Excel macros to automate certain elements of client reporting related to this particular client set.  
 
 **Learnings:**
 
-- Commentary under development.
+- Gained familiarity with portfolio accounting systems.
+- Built an understanding of the what goes on within an investment portfolio at transaction-level detail.
+- Learned how investment managers, their clients, and their client's custodian all work together to coordinate the processes that build wealth for the client. 
+- I realized I enjoy the rewards that accompany the refining of business processes.  
 
 **Aspirations:**
 
-- Commentary under development.
+- After a year of serving as a portfolio accountant, I was eager to acquire exposure to more technical aspects of investing.  I did not feel as if I had enough experience to apply for highly competitive positions on the investment staff without it.  However, I knew other available roles at T. Rowe could provide an opportunity to build the type of knowledge that could give me a shot at an investment staff position in the future.  I knew I wanted something that would provide the opportunity to learn about how to measure portfolio performance and how T. Rowe's investment products compared to competing firms.
 
 ### T. Rowe Price
 
@@ -186,19 +187,28 @@ Owings Mills, MD
 
 **Pursuit of the role:**
 
-- Commentary under development.
+- I successfully transitioned to a Quantitative Performance Analyst position in T. Rowe's middle office.  In this role I developed deep skills in investment portfolio analysis and trained portfolio analysts on portfolio analysis tool usage and data interpretation.  I acquired a deeper knowledge of portfolio return calculation, Modern Portfolio Theory (MPT), investment performance statistics (e.g. alpha, beta, tracking error, information ratio, sharpe ratio, etc.), portfolio benchmarks, and excess return attribution analysis. 
 
 **What I helped accomplish and why it mattered:**
 
-- Commentary under development.
+- Provided CEO and Senior Members of Investment Staff with Lipper Ranking statistics and performance trends of all T. Rowe Price funds.  This helped executives more closely monitor how T. Rowe's product line compared to industry competitors on a day-by-day basis.
+- Leveraged various software applications to supply returns-based style charts and MPT statistics to investment staff and marketing professionals. Maintained an understanding of how such statistics are being calculated by the tools.  Providing this type of information provided greater transparency and awareness that T. Rowe's investment strategies were behaving as intended. 
+-	Utilized other software applications to perform attribution analysis and assist in the interpretation of such analysis with end-users as needed. This helped investment associates why their investment strategies were outperforming or underperforming their respective benchmark indices.
+-	Performed ad-hoc portfolio/universe ranking, competitor, and performance analyses using Morningstar Direct.  Produced various (sometimes standardized) reports, and fulfilled such requests to end-users in a cognizant way.  This helped provide timely information to investment associates so that they could operate at peak performance. 
 
 **Learnings:**
 
-- Commentary under development.
+- Providing great support strengthens the entire team and makes everyone better.
+- I discovered I enjoy teaching and training others.
+- Acquiring technical expertise is valuable in itself and takes significant time and effort to build.
+- I became aware of the vastness of the investments industry (i.e. the hundreds/thousands of managers world-wide who compete for the same pot of client assets changing hands at any given moment)
+- Studied Applied Statistics at Rochester Institute of Technology (2011-2012) and transitioned into a Computational Finance Graduate Certificate program at the University of Washington which I completed in 2013.  I learned that advanced math and computer programming is hard and I may not have the passion or skill it takes to be a quantitative investor.  
+- Earned the Certificate in Investment Performance Measurement from the CFA Institute in 2014.
+
 
 **Aspirations:**
 
-- Commentary under development.
+- After 3 1/2 years as a performance analyst, I reasoned that it might be beneficial to learn a different part of the business and support the institutional sales staff in their market research efforts.  Maybe I could build relationships that would lead me into investments.
 
 ### T. Rowe Price
 
