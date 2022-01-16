@@ -202,13 +202,14 @@ Owings Mills, MD
 - I discovered I enjoy teaching and training others.
 - Acquiring technical expertise is valuable in itself and takes significant time and effort to build.
 - I became aware of the vastness of the investments industry (i.e. the hundreds/thousands of managers world-wide who compete for the same pot of client assets changing hands at any given moment)
-- Studied Applied Statistics at Rochester Institute of Technology (2011-2012) and transitioned into a Computational Finance Graduate Certificate program at the University of Washington which I completed in 2013.  I learned that advanced math and computer programming is hard and I may not have the passion or skill it takes to be a quantitative investor.  
-- Earned the Certificate in Investment Performance Measurement from the CFA Institute in 2014.
+- Studied Applied Statistics at Rochester Institute of Technology (2011-2012) and transitioned into a Computational Finance Graduate Certificate program at the University of Washington (completed 2013).  
+- First started programming in R in 2013.  I started realizing I may not have the passion or skill it takes to be a quantitative investor.  
+- Earned the Certificate in Investment Performance Measurement from the CFA Institute (2014).
 
 
 **Aspirations:**
 
-- After 3 1/2 years as a performance analyst, I reasoned that it might be beneficial to learn a different part of the business and support the institutional sales staff in their market research efforts.  Maybe I could build relationships that would lead me into investments.
+- After 3^1/2^ years as a performance analyst, I reasoned that it might be beneficial to learn a different part of the business and support the institutional sales staff in their market research efforts.  Maybe I could build relationships that would lead me into investments.
 
 ### T. Rowe Price
 
@@ -220,23 +221,28 @@ Baltimore, MD
 
 **Pursuit of the role:**
 
-- Commentary under development.
+- I went back and forth with the decision to accept the position offered to me supporting institutional sales associates. Ultimately, I elected to go through with it because I felt it would be beneficial to have a broader understanding of the firm instead of niche expertise in portfolio performance evaluation.
 
 **What I helped accomplish and why it mattered:**
 
-- Commentary under development.
+- I provided direct support to North America-based Global Institutional Sales, Consultant Relations, & Client Service teams and Global Marketing Initiatives.  
+- I helped provide background context on competing investment strategies to distribution associates so that they could be fully prepared for finals presentations and be better positioned to win institutional mandates. 
+- I started using data visualization tools like Tableau to present insights from underlying datasets instead of hacking through the data using MS Excel.  Exhibiting the power of Tableau helped provide momentum to broader business intelligence initiatives that were just getting underway.  Now several distribution units have mature data analytics teams.
+- I established a high level of familiarity and comfort with industry platforms like Morningstar Direct, eVestment, and SIMFUND that contain AUM, asset flow, and peer-group performance ranking data.  
 
 **Learnings:**
 
-- Commentary under development.
+- I learned how to work and meet deadlines in a demanding, high-tempo, sales environment.
+- I started learning how to refine and simplify data presentations so that they could easily understood by people with little background knowledge.  This helped improve speed of communication and understanding among fellow associates and clients.
+- I helped develop a way to identify "weak managers" in various market spaces that were susceptible to being fired.  This helped our organization identify opportunities where we might replace the incumbent and win more mandates.
 
 **Aspirations:**
 
-- Commentary under development.
+- Working alongside the distribution associates was not my favorite.  I did not feel as if my values were aligned with the culture of the group.  It was a money culture I was unfamiliar with and did not know how to navigate.  I realized that I certainly did not aspire to become a distribution representative.  However, before beginning any sort of broader search for a new role, there were other enterprise-level developments taking place that would dictate how I would contribute to T. Rowe's growth in the coming years. 
 
 ### T. Rowe Price
 
-Product Analyst
+AVP, Product Analyst
 
 Baltimore, MD
 
@@ -260,7 +266,7 @@ Baltimore, MD
 
 ### T. Rowe Price
 
-Sr. Manager, Data Analytics
+VP, Sr. Manager, Data Analytics
 
 Owings Mills, MD
 
