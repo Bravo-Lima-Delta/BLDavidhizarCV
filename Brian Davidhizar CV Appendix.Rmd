@@ -250,19 +250,30 @@ Baltimore, MD
 
 **Pursuit of the role:**
 
-- Commentary under development.
+- During the 2015-2016 timeframe, T. Rowe Price had engaged a consultant to help navigate various strategic development challenges.  One of the outcomes of that work was the creation of a Global Product Group whose primary role would be to spearhead product development.  The group was staffed by lifting out associates from their current roles.  I was selected by the Global Head of Distribution to be one of the original associates of the Product Strategy Group within the new division to help with top-priority product research efforts.  I was excited to be chosen and involved in such an important initiative.
 
 **What I helped accomplish and why it mattered:**
 
-- Commentary under development.
+- Compiled a body of research on "High Conviction" Equity Strategies which lead to the launching of several new investment strategies to include European Select Equity, Global Select Equity, and U.S. Select Value Equity. 
+- Analysis of Japan Equity scaling opportunities.  At the time, the T. Rowe Price Japan Equity strategy had less than \$1B of AUM mostly sourced from U.S. investors.  My research helped identify that EMEA could be a significant source of assets.  The strategy now has over \$5B in assets mostly driven by EMEA investors. 
+- Researched the China Equity market-space to determine what type of China Equity product T. Rowe Price should bring to market.  T. Rowe now has multiple China Equity product offerings available.  
+- Dynamic Emerging Markets Bond product development, which is now live, and also helped review product launch opportunities in the UK OEIC market, leading to several additional vehicle launches there.  
+- I helped assess whether T. Rowe Price should register with the CFTC as a Commodity Pool Operator/Commodity Trading Advisor.  This helped the firm stay on course with alternative investment product offerings.
+- Application of business intelligence tools such as Tableau and Microsoft Power BI to analytical processes, case-building, and storytelling. 
+
 
 **Learnings:**
 
-- Commentary under development.
+- I gained more confidence communicating with data.
+- I feel rewarded when I am entrusted with important work.
+- I enjoy contributing to the growth and development of an organization.
+- I like activities that have a global component (i.e. not U.S.-specific).
+- I get satisfaction from trying new ways of accessing, processing, and visualizing data.
+- I learned a lot about myself and about leadership while completing and M.S. in Leadership from Norwich University.
 
 **Aspirations:**
 
-- Commentary under development.
+- I loved my work as a Product Analyst.  During this time period I shifted my focus and career goals away from Investments work.  I began to realize that I was acquiring significant industry and data knowledge that might be put to use at an enterprise level.   
 
 ### T. Rowe Price
 
@@ -270,20 +281,25 @@ VP, Sr. Manager, Data Analytics
 
 Owings Mills, MD
 
-2010 - Present
+2018 - Present
 
 **Pursuit of the role:**
 
-- Commentary under development.
+- I joined an associate that had been working on the Corporate Strategy team to FP&A where we would be interfacing with the Investments and Product divisions to help them formulate their strategic plans.  The dynamics of the Product group had been changing, and I thought that the opportunity in FP&A would lead to a greater understanding of how the business functioned from a financial perspective.  I thought that this exposure would help set me up for more senior responsibilities at the firm or at another asset manager.  It appeared there would be plenty of opportunity to use my product, industry, investments, and analytics knowledge to make an impact.  
 
 **What I helped accomplish and why it mattered:**
 
-- Commentary under development.
+- Collaborated on several strategy-oriented projects including a strategic review of International Equity business unit which contributed to the development of strategic priorities for the new Head of International Equity. 
+- Strategic analysis of seed capital deployment as it pertains to product roadmaps. This helped the firm understand if deployment of seed capital was being put to highest and best use.
+- Continued to apply concepts from the data science lifecycle to import, tidy, transform, visualize, model, and communicate data stories. I built experienced in implementing Microsoft PowerQuery (PowerBI/Excel) and R tidyverse functionality to perform ETL processes on multi-sourced data sets. I Established data ingestion processes, cleaned and organized data, and creatively charted data stories that provided key takeaways to internal clients through clear, concise presentation.
+- I pioneered the development of a PowerBI dashboard from multi-sourced data that allows for visualization and analysis of investor research spend, data spend, and travel spend across all business units allowing for greater transparency and firm wide cost monitoring.
 
 **Learnings:**
 
-- Commentary under development.
+- I realized the importance of refining my analytics skill-set more intentionally.  I applied and was accepted into Carnegie Mellon University's Tepper School of Business M.S. in Business Analytics program, one of the top programs in the U.S.
+- Despite a strong work-ethic, I have limits.  I was unable to juggle the rigorous coursework alongside the onset of COVID, family responsibilities, and professional workload.  It was difficult to justify spending hours of time learning AI/ML techniques when there would be no immediate opportunity to apply the skills in my day-to-day work.  Choosing to drop from the program was a hard choice.
+- There is more that one way to keep learning.  I was determined to continue my data science, analytics, and data visualization skill-building journey.  I became a Certified Data Scientist Professional through Datacamp's certification platform and have also earned the Certified Tableau Desktop Professional credential.
 
 **Aspirations:**
 
-- Commentary under development.
+- Much reading and self-reflection has led me to a point in my career where the alignment of values and being part of something "bigger" is paramount.  I am looking for roles that exist more squarely within a data analytics or business intelligence team in an organization where I can belong, learn, grow, mentor, and influence.   
