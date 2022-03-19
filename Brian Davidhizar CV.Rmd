@@ -56,9 +56,7 @@ Main
 Brian L. Davidhizar {#title}
 --------------------------------------------------------------------------------
 
-### Currently searching for a remote position.  
-
-The ideal role would involve data analytics or business intelligence in an organization where I can belong, learn, grow, mentor, and influence.
+### Senior Data Analyst at Ramsey Solutions
 
 **Please refer to an [Extended CV](https://htmlpreview.github.io/?https://github.com/Bravo-Lima-Delta/BLDavidhizarCV/blob/main/Brian-Davidhizar-CV-Appendix.html) for career narrative and details of major projects and accomplishments.**
 
@@ -166,13 +164,21 @@ Present - 2010
 Professional Experience {data-icon=suitcase}
 --------------------------------------------------------------------------------
 
+### Senior Data Analyst
+
+Ramsey Solutions
+
+Franklin, TN
+
+Present - 2022
+
 ### Sr. Manager, Data Analytics (current) | Product Analyst | Sr. Market Research Analyst | Quantitative Investment Performance Analyst | Sr. Mutual Fund Accountig Associate
 
 T. Rowe Price
 
 Baltimore, MD
 
-Present - 2010
+2022 - 2010
 
 ::: concise
 - Data Visualization & Storytelling
