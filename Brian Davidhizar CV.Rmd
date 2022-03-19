@@ -172,7 +172,7 @@ Franklin, TN
 
 Present - 2022
 
-### Sr. Manager, Data Analytics (current) | Product Analyst | Sr. Market Research Analyst | Quantitative Investment Performance Analyst | Sr. Mutual Fund Accountig Associate
+### Sr. Manager, Data Analytics | Product Analyst | Sr. Market Research Analyst | Quantitative Investment Performance Analyst | Sr. Mutual Fund Accountig Associate
 
 T. Rowe Price
 
@@ -188,8 +188,8 @@ Baltimore, MD
 - Investment Vehicle Analysis
 - Industry & Competitor Analysis
 - *[Certificate in Investment Performance Measurement (CIPM)](https://www.cfainstitute.org/-/media/documents/factsheet/cipm-factsheet.ashx)*
-- Analysis of Assets Under Management (AUM) and Net Flows
-- Institutional Sales & Client Service Support
+- AUM and Net Flows Analysis
+- Inst. Sales & Service Support
 - Monte-Carlo Simulation
 - Forecasting
 - Portfolio Accounting
