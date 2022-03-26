@@ -19,7 +19,7 @@ Brian Davidhizar {#contact}
 --------------------------------------------------------------------------------
 
 - <i class="fa fa-envelope"></i> brian.davidhizar@gmail.com
-- <i class="fa fa-phone"></i> +1 443-422-7183
+- <i class="fa fa-phone"></i> +1 667-272-6601
 - ![](LinkedIn.png) [linkedin.com/briandavidhizar](https://www.linkedin.com/in/briandavidhizar/)
 - ![](DataCamp.png) [datacamp.com/briandavidhizar](https://www.datacamp.com/profile/briandavidhizar)
 - <i class="fa fa-github"></i> [github.com/Bravo-Lima-Delta](https://github.com/Bravo-Lima-Delta)
@@ -33,7 +33,8 @@ Career Summary {#skills}
 - U.S. Marine Corps (2003-2008)
 - PricewaterhouseCoopers (2008)
 - Arthur Bell CPAs (2008-2010)
-- T. Rowe Price (2010-Present)
+- T. Rowe Price (2010-2022)
+- Ramsey Solutions (2022-Present)
 
 Learning Growth {#skills}
 --------------------------------------------------------------------------------
