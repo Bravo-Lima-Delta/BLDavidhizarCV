@@ -21,7 +21,7 @@ Contact Info {#contact}
 --------------------------------------------------------------------------------
 
 - <i class="fa fa-envelope"></i> brian.davidhizar@gmail.com
-- <i class="fa fa-phone"></i> +1 667-272-76601
+- <i class="fa fa-phone"></i> +1 667-272-6601
 - ![](LinkedIn.png) [linkedin.com/briandavidhizar](https://www.linkedin.com/in/briandavidhizar/)
 - ![](DataCamp.png) [datacamp.com/briandavidhizar](https://www.datacamp.com/profile/briandavidhizar)
 - <i class="fa fa-github"></i> [github.com/Bravo-Lima-Delta](https://github.com/Bravo-Lima-Delta)
@@ -56,7 +56,7 @@ Main
 Brian L. Davidhizar {#title}
 --------------------------------------------------------------------------------
 
-### Data Analyst II at Ramsey Solutions
+### Data Analyst II, RamseyTrusted Real Estate at Ramsey Solutions
 
 **Please refer to an [Extended CV](https://htmlpreview.github.io/?https://github.com/Bravo-Lima-Delta/BLDavidhizarCV/blob/main/Brian-Davidhizar-CV-Appendix.html) for career narrative and details of major projects and accomplishments.**
 
@@ -164,7 +164,7 @@ T. Rowe Price
 Professional Experience {data-icon=suitcase}
 --------------------------------------------------------------------------------
 
-### Data Analyst II
+### Data Analyst II, RamseyTrusted Real Estate
 
 Ramsey Solutions
 
