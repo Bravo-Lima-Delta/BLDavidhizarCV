@@ -21,7 +21,7 @@ Contact Info {#contact}
 --------------------------------------------------------------------------------
 
 - <i class="fa fa-envelope"></i> brian.davidhizar@gmail.com
-- <i class="fa fa-phone"></i> +1 443-422-7183
+- <i class="fa fa-phone"></i> +1 667-272-76601
 - ![](LinkedIn.png) [linkedin.com/briandavidhizar](https://www.linkedin.com/in/briandavidhizar/)
 - ![](DataCamp.png) [datacamp.com/briandavidhizar](https://www.datacamp.com/profile/briandavidhizar)
 - <i class="fa fa-github"></i> [github.com/Bravo-Lima-Delta](https://github.com/Bravo-Lima-Delta)
@@ -56,7 +56,7 @@ Main
 Brian L. Davidhizar {#title}
 --------------------------------------------------------------------------------
 
-### Senior Data Analyst at Ramsey Solutions
+### Data Analyst II at Ramsey Solutions
 
 **Please refer to an [Extended CV](https://htmlpreview.github.io/?https://github.com/Bravo-Lima-Delta/BLDavidhizarCV/blob/main/Brian-Davidhizar-CV-Appendix.html) for career narrative and details of major projects and accomplishments.**
 
@@ -148,7 +148,7 @@ Data Platforms
 
 T. Rowe Price
 
-Present - 2010
+2022 - 2010
 
 ::: concise
 - Morningstar Direct
@@ -164,7 +164,7 @@ Present - 2010
 Professional Experience {data-icon=suitcase}
 --------------------------------------------------------------------------------
 
-### Senior Data Analyst
+### Data Analyst II
 
 Ramsey Solutions
 
