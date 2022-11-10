@@ -4,8 +4,10 @@ author: Brian Davidhizar
 date: "`r Sys.Date()`"
 output:
   pagedown::html_resume:
-    # set it to true for a self-contained HTML page but it'll take longer to render
     self_contained: true
+    css: custom_resume.css
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    # self_contained: true
 # uncomment this line to produce HTML and PDF in RStudio:
 #knit: pagedown::chrome_print
 ---
@@ -14,7 +16,7 @@ Aside
 ================================================================================
 
 
-![Brian Davidhizar](LinkedIn Headshot.png){width=80%}
+![Brian Davidhizar](RamseyHeadshot.jpg){width=80%}
 
 
 Contact Info {#contact}
@@ -44,7 +46,7 @@ Skills {#skills}
 Disclaimer {#disclaimer}
 --------------------------------------------------------------------------------
 
-This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).
+
 
 Last updated on `r Sys.Date()`.
 
@@ -53,15 +55,25 @@ Last updated on `r Sys.Date()`.
 Main
 ================================================================================
 
-Brian L. Davidhizar {#title}
+Brian L. Davidhizar, CIPM {#title}
 --------------------------------------------------------------------------------
 
-### Data Analyst II, RamseyTrusted Real Estate at Ramsey Solutions
+### Data Analyst at Ramsey Solutions
+Prior T. Rowe Price, U.S. Marine Corps
 
 **Please refer to an [Extended CV](https://htmlpreview.github.io/?https://github.com/Bravo-Lima-Delta/BLDavidhizarCV/blob/main/Brian-Davidhizar-CV-Appendix.html) for career narrative and details of major projects and accomplishments.**
 
 Education {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
+
+### Eastern University
+
+Candidate M.S. in Data Science
+
+St. Davids, PA
+
+2023
+
 
 ### Norwich University
 
@@ -107,6 +119,38 @@ Mechanicsburg, PA
 Data Analytics & Industry Skills {data-icon=laptop}
 --------------------------------------------------------------------------------
 
+### Investments Industry
+
+Data Platforms
+
+T. Rowe Price
+
+2022 - 2010
+
+::: concise
+- Morningstar Direct
+- eVestment
+- Strategic Insight/SIMFUND
+- Zephyr StyleAdvisor
+:::
+
+### Analytics & Programming
+
+Various Platforms and Tools
+
+Various Learning Modes
+
+Present - 2013
+
+::: concise
+- *[Certified Tableau Desktop Specialist](https://www.credly.com/badges/6c91ed7f-895b-4ebb-b47a-df549d52d02b/public_url)*
+- R
+- Python
+- PostgreSQL
+- Microsoft Power BI
+- DAX
+:::
+
 ### Data Science
 
 Datacamp
@@ -125,54 +169,18 @@ Present - 2019
 - Data Analyst with SQL Server
 :::
 
-### Analytics & Programming
-
-Various Platforms and Tools
-
-Various Learning Modes
-
-Present - 2013
-
-::: concise
-- *[Certified Tableau Desktop Specialist](https://www.credly.com/badges/6c91ed7f-895b-4ebb-b47a-df549d52d02b/public_url)*
-- Microsoft Power BI
-- DAX
-- R
-- Python
-
-:::
-
-### Investments Industry
-
-Data Platforms
-
-T. Rowe Price
-
-2022 - 2010
-
-::: concise
-- Morningstar Direct
-- eVestment
-- Strategic Insight/SIMFUND
-- P&I Research 
-- Zephyr StyleAdvisor
-- Factset
-- Lipper
-- Mercer Insight
-:::
-
 Professional Experience {data-icon=suitcase}
 --------------------------------------------------------------------------------
 
-### Data Analyst II, RamseyTrusted Real Estate
+### Data Analyst II
 
-Ramsey Solutions
+Ramsey Solutions, RamseyTrusted Real Estate
 
 Franklin, TN
 
 Present - 2022
 
-### Sr. Manager, Data Analytics | Product Analyst | Sr. Market Research Analyst | Quantitative Investment Performance Analyst | Sr. Mutual Fund Accountig Associate
+### Sr. Manager, Data Analytics <br /> Product Analyst <br /> Sr. Market Research Analyst <br /> Quantitative Investment Performance Analyst <br /> Sr. Mutual Fund Accountig Associate
 
 T. Rowe Price
 

@@ -4,8 +4,10 @@ author: Brian Davidhizar
 date: "`r Sys.Date()`"
 output:
   pagedown::html_resume:
-    # set it to true for a self-contained HTML page but it'll take longer to render
     self_contained: true
+    css: custom_resume.css
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    # self_contained: true
 # uncomment this line to produce HTML and PDF in RStudio:
 #knit: pagedown::chrome_print
 ---
@@ -13,7 +15,7 @@ output:
 Aside
 ================================================================================
 
-![Brian Davidhizar](LinkedIn Headshot.png){width=80%}
+![Brian Davidhizar](RamseyHeadshot.jpg){width=80%}
 
 Brian Davidhizar {#contact}
 --------------------------------------------------------------------------------
