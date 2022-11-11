@@ -40,7 +40,7 @@ Skills {#skills}
 
 - Credentialed in Leadership, Data Science, Tableau, Investment Performance Analysis, Accounting & Financial Management
 
-- Competent primarily with R, Power BI, Tableau, and secondarily with Python, SQL
+- Competcies in R, Python, PostgreSQL, Tableau, & Power BI
 
 
 Disclaimer {#disclaimer}
@@ -48,14 +48,14 @@ Disclaimer {#disclaimer}
 
 
 
-Last updated on `r Sys.Date()`.
+Last updated on `r Sys.Date()`
 
 
 
 Main
 ================================================================================
 
-Brian L. Davidhizar, CIPM {#title}
+Brian Davidhizar, CIPM {#title}
 --------------------------------------------------------------------------------
 
 ### Data Analyst at Ramsey Solutions
@@ -115,6 +115,89 @@ Mechanicsburg, PA
 
 2002
 
+Professional Experience {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+### Data Analyst II
+
+Ramsey Solutions, RamseyTrusted Real Estate
+
+Franklin, TN
+
+Present - 2022
+
+- Embedded as a data analyst in a multi-talented squad alongside marketers, paid media specialists, designers, and copywriters to optimize paid search initiatives in RamseyTrusted Real Estate operations. 
+
+### 5) VP, &nbsp;Sr. Manager, Data Analytics <br /> 4) AVP, &nbsp;Product Analyst <br /> 3) Sr. Market Research Analyst <br /> 2) Quantitative Investment Performance Analyst <br /> 1) Sr. Mutual Fund Accountig Associate<br />&nbsp;
+
+T. Rowe Price <br />&nbsp;
+
+Baltimore, MD
+
+2022 - 2010
+
+::: concise
+- *[Certificate in Investment Performance Measurement (CIPM)](https://www.cfainstitute.org/-/media/documents/factsheet/cipm-factsheet.ashx)*
+- Investment Product Development
+- Investment Performance Analysis
+- Investment Vehicle Analysis
+- Industry & Competitor Analysis
+- AUM and Net Flows Analysis
+- Strategic Analysis
+- Data Visualization & Storytelling
+- Dashboard Development
+- Inst. Sales & Service Support
+- Monte-Carlo Simulation
+- Forecasting
+- Portfolio Accounting
+:::
+
+### Hedge Fund Audit Staff
+
+Arthur Bell, CPAs
+
+Hunt Valley, MD
+
+2010 - 2008
+
+- Auditing of hedge funds, commodity pools, and fund-of-funds.
+
+### Assurance Associate
+
+PricewaterhouseCoopers, LLP
+
+Tysons Corner, VA
+
+2008
+
+- Big 4 Experience
+
+Active Duty Military Service {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+### Signals Intelligence: Spanish CryptoLinguist (MOS: 2674)
+
+United States Marine Corps
+
+Fort Meade, MD
+
+2008 - 2003
+
+- Intensive military training in basic combat operations,
+foreign language, intelligence production, and information technology application.
+
+::: concise
+- Ranks: PFC - Sergeant (E2-E5)
+- Discharge: Honorable
+- Joint Service Achievement Medal
+- Navy and Marine Corps Achievement Medal
+- Army Achievement Medal
+- Joint Meritorious Unit Award
+- Marine Corps Good Conduct Medal
+- National Defense Service Medal
+- Global War on Terror Service Medal
+- **Inactive TS/SCI Clearance**
+:::
 
 Data Analytics & Industry Skills {data-icon=laptop}
 --------------------------------------------------------------------------------
@@ -167,88 +250,6 @@ Present - 2019
 - Data Manipulation with R
 - Data Analyst with Python
 - Data Analyst with SQL Server
-:::
-
-Professional Experience {data-icon=suitcase}
---------------------------------------------------------------------------------
-
-### Data Analyst II
-
-Ramsey Solutions, RamseyTrusted Real Estate
-
-Franklin, TN
-
-Present - 2022
-
-### Sr. Manager, Data Analytics <br /> Product Analyst <br /> Sr. Market Research Analyst <br /> Quantitative Investment Performance Analyst <br /> Sr. Mutual Fund Accountig Associate
-
-T. Rowe Price
-
-Baltimore, MD
-
-2022 - 2010
-
-::: concise
-- Data Visualization & Storytelling
-- Dashboard Development
-- Strategic Analysis
-- Investment Product Development
-- Investment Vehicle Analysis
-- Industry & Competitor Analysis
-- *[Certificate in Investment Performance Measurement (CIPM)](https://www.cfainstitute.org/-/media/documents/factsheet/cipm-factsheet.ashx)*
-- AUM and Net Flows Analysis
-- Inst. Sales & Service Support
-- Monte-Carlo Simulation
-- Forecasting
-- Portfolio Accounting
-:::
-
-### Hedge Fund Audit Staff
-
-Arthur Bell, CPAs
-
-Hunt Valley, MD
-
-2010 - 2008
-
-- Auditing of hedge funds, commodity pools, and fund-of-funds.
-
-### Assurance Associate
-
-PricewaterhouseCoopers, LLP
-
-Tysons Corner, VA
-
-2008
-
-- Big 4 Experience
-
-
-Active Duty Military Service {data-icon=suitcase}
---------------------------------------------------------------------------------
-
-### Signals Intelligence: Spanish CryptoLinguist (MOS: 2674)
-
-United States Marine Corps
-
-Fort Meade, MD
-
-2008 - 2003
-
-- Intensive military training in basic combat operations,
-foreign language, intelligence production, and information technology application.
-
-::: concise
-- Ranks: PFC - Sergeant (E2-E5)
-- Discharge: Honorable
-- Joint Service Achievement Medal
-- Navy and Marine Corps Achievement Medal
-- Army Achievement Medal
-- Joint Meritorious Unit Award
-- Marine Corps Good Conduct Medal
-- National Defense Service Medal
-- Global War on Terror Service Medal
-- **Inactive TS/SCI Clearance**
 :::
 
 Other Quant Coursework & Interests {data-icon=file}
