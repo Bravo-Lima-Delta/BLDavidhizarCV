@@ -172,33 +172,6 @@ Tysons Corner, VA
 
 - Big 4 Experience
 
-Active Duty Military Service {data-icon=suitcase}
---------------------------------------------------------------------------------
-
-### Signals Intelligence: Spanish CryptoLinguist (MOS: 2674)
-
-United States Marine Corps
-
-Fort Meade, MD
-
-2008 - 2003
-
-- Intensive military training in basic combat operations,
-foreign language, intelligence production, and information technology application.
-
-::: concise
-- Ranks: PFC - Sergeant (E2-E5)
-- Discharge: Honorable
-- Joint Service Achievement Medal
-- Navy and Marine Corps Achievement Medal
-- Army Achievement Medal
-- Joint Meritorious Unit Award
-- Marine Corps Good Conduct Medal
-- National Defense Service Medal
-- Global War on Terror Service Medal
-- **Inactive TS/SCI Clearance**
-:::
-
 Data Analytics & Industry Skills {data-icon=laptop}
 --------------------------------------------------------------------------------
 
@@ -250,6 +223,33 @@ Present - 2019
 - Data Manipulation with R
 - Data Analyst with Python
 - Data Analyst with SQL Server
+:::
+
+Active Duty Military Service {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+### Signals Intelligence: Spanish CryptoLinguist (MOS: 2674)
+
+United States Marine Corps
+
+Fort Meade, MD
+
+2008 - 2003
+
+- Intensive military training in basic combat operations,
+foreign language, intelligence production, and information technology application.
+
+::: concise
+- Ranks: PFC - Sergeant (E2-E5)
+- Discharge: Honorable
+- Joint Service Achievement Medal
+- Navy and Marine Corps Achievement Medal
+- Army Achievement Medal
+- Joint Meritorious Unit Award
+- Marine Corps Good Conduct Medal
+- National Defense Service Medal
+- Global War on Terror Service Medal
+- **Inactive TS/SCI Clearance**
 :::
 
 Other Quant Coursework & Interests {data-icon=file}
