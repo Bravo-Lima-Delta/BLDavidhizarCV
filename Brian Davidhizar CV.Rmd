@@ -68,7 +68,7 @@ Education {data-icon=graduation-cap data-concise=true}
 
 ### Eastern University
 
-Candidate M.S. in Data Science
+M.S. in Data Science
 
 St. Davids, PA
 
